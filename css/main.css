@@ -1,0 +1,16 @@
+/* CSS Document */
+
+#wrapper {
+	width: 100%;
+	margin: 0px;
+	text-align: center;
+}
+#header {
+	height: 141px;
+	width: 960px;
+}
+#navigation {
+	height: 41px;
+	width: 960px;
+	float: none;
+}

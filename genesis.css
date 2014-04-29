@@ -1,0 +1,231 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 20px;
+	color: #444;
+	text-align: justify;
+	background-color: #EFF4E8;
+	margin: 0px;
+	}
+a:link {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+
+
+
+
+.bottomline {
+	border-bottom-width: 4px;
+	border-bottom-style: solid;
+	border-bottom-color: #99AE6B;
+}
+.topline {
+	border-top-width: 4px;
+	border-top-style: solid;
+	border-top-color: #99AE6B;
+	color: #CC6600;
+}
+a.nav {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #82A151;
+	word-spacing: .2em;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	line-height: 20px;
+	text-transform: capitalize;
+}
+a.nav:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #CC6600;
+	word-spacing: .2em;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	line-height: 20px;
+	text-transform: capitalize;
+}
+.weltxt {
+	font-family: "Futura Hv BT", Arial;
+	font-size: 15px;
+	font-weight: normal;
+	color: #82A151;
+	text-transform: none;
+	padding-left: 5px;
+	letter-spacing: .2em;
+
+}
+.footxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	padding-left: 10px;
+	word-spacing: .18em;
+}
+.sideline {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #99AE6B;
+	border-left-color: #99AE6B;
+}
+.sideline2 {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #99AE6B;
+	border-left-color: #99AE6B;
+}
+.weltxtline {
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #99AE6B;
+}
+a.rdlink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #E99403;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+a.rdlink:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #E99403;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-decoration: underline;
+	
+}
+.comptxt {
+	font-family: "Futura Hv BT", Arial;
+	font-size: 16px;
+	font-weight: bold;
+	color: #B08E46;
+	text-transform: uppercase;
+	padding-left: 10px;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #B08E46;
+	letter-spacing: .2em;
+
+}
+.midline {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #CCCCCC;
+}
+.ppletxt {
+	font-family: "Futura Hv BT", Arial;
+	font-size: 15px;
+	font-weight: normal;
+	color: #E99403;
+	text-transform: capitalize;
+	padding-left: 5px;
+	letter-spacing: .2em;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #E99403;
+}
+a.onlinetxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666;
+	text-transform: capitalize;
+}
+a.onlinetxt:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #82A151;
+	text-transform: capitalize;
+	letter-spacing: 0.01em;
+	padding-left: 5px;
+}
+.onlineline {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+	}
+a.newslink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #E99403;
+	text-transform: none;
+	font-weight: bold;
+}
+a.newslink:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #E99403;
+	text-transform: none;
+	font-weight: bold;
+	text-decoration: underline;
+	
+}
+.bg {
+	background-image: url(images/bg.jpg);
+}
+.missiontxt{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #444;
+	text-transform: none;
+	font-weight: normal;
+	}
+.missiontxt2{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #444;
+	text-transform: none;
+	font-weight: normal;
+	letter-spacing: 0.2em;
+	text-decoration: none;
+}.formtxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #444;
+	background-color: #EBEFE1;
+	height: 25px;
+	width: 200px;
+	border: 1px solid #BC9D5C;
+}
+.formtxt2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #444;
+	background-color: #EBEFE1;
+	height: 100px;
+	width: 480px;
+	border: 1px solid #BD9B5C;
+}
+.submitbt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #82A151;
+	height: 30px;
+	width: 200px;
+	color: #FFFFFF;
+}

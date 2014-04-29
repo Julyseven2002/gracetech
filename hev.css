@@ -1,0 +1,60 @@
+.sideline {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #ccc;
+	border-left-color: #ccc;
+}
+a.toplink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-transform: none;
+	color: #666;
+	padding-right: 3px;
+	padding-left: 3px;
+}
+a.toplink:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-transform: none;
+	color: #82A151;
+	padding-right: 3px;
+	padding-left: 3px;
+	text-decoration: underline;
+}
+a.bottomlink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	padding-left: 5px;
+	letter-spacing: 0.1em;
+	font-weight: normal;
+}
+a.bottomlink:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	padding-right: 3px;
+	padding-left: 3px;
+}
+.photxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	padding-left: 5px;
+	font-weight: bold;
+}
+.btline {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #E1E1E1;
+}
+.footxt {font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+	color: #fff;
+	}
